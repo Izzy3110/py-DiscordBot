@@ -1,0 +1,786 @@
+[
+    {
+        "lat": 47.8674076,
+        "lon": 9.4378615,
+        "t": 1643765564.4546244,
+        "data": {
+            "coord": {
+                "lon": 9.4379,
+                "lat": 47.8674
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "overcast clouds",
+                    "icon": "04n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 2.55,
+                "feels_like": -1.16,
+                "temp_min": 1.08,
+                "temp_max": 3.68,
+                "pressure": 1013,
+                "humidity": 93
+            },
+            "visibility": 2724,
+            "wind": {
+                "speed": 4.02,
+                "deg": 256,
+                "gust": 5.36
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1643765355,
+            "sys": {
+                "type": 2,
+                "id": 19490,
+                "country": "DE",
+                "sunrise": 1643784515,
+                "sunset": 1643818992
+            },
+            "timezone": 3600,
+            "id": 6556075,
+            "name": "Wilhelmsdorf",
+            "cod": 200
+        }
+    },
+    {
+        "lat": 47.8674076,
+        "lon": 9.4378615,
+        "t": 1643766321.6982913,
+        "data": {
+            "coord": {
+                "lon": 9.4379,
+                "lat": 47.8674
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "overcast clouds",
+                    "icon": "04n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 2.74,
+                "feels_like": -1.2,
+                "temp_min": 1.47,
+                "temp_max": 3.68,
+                "pressure": 1013,
+                "humidity": 93
+            },
+            "visibility": 2745,
+            "wind": {
+                "speed": 4.47,
+                "deg": 258,
+                "gust": 6.71
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1643766140,
+            "sys": {
+                "type": 2,
+                "id": 19490,
+                "country": "DE",
+                "sunrise": 1643784515,
+                "sunset": 1643818992
+            },
+            "timezone": 3600,
+            "id": 6556075,
+            "name": "Wilhelmsdorf",
+            "cod": 200
+        }
+    },
+    {
+        "lat": 47.8674076,
+        "lon": 9.4378615,
+        "t": 1643766378.7446241,
+        "data": {
+            "coord": {
+                "lon": 9.4379,
+                "lat": 47.8674
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "overcast clouds",
+                    "icon": "04n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 2.74,
+                "feels_like": -1.2,
+                "temp_min": 1.47,
+                "temp_max": 3.68,
+                "pressure": 1013,
+                "humidity": 93
+            },
+            "visibility": 2745,
+            "wind": {
+                "speed": 4.47,
+                "deg": 258,
+                "gust": 6.71
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1643766140,
+            "sys": {
+                "type": 2,
+                "id": 19490,
+                "country": "DE",
+                "sunrise": 1643784515,
+                "sunset": 1643818992
+            },
+            "timezone": 3600,
+            "id": 6556075,
+            "name": "Wilhelmsdorf",
+            "cod": 200
+        }
+    },
+    {
+        "lat": 47.8674076,
+        "lon": 9.4378615,
+        "t": 1643766466.0123353,
+        "data": {
+            "coord": {
+                "lon": 9.4379,
+                "lat": 47.8674
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "overcast clouds",
+                    "icon": "04n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 2.74,
+                "feels_like": -1.2,
+                "temp_min": 1.47,
+                "temp_max": 3.68,
+                "pressure": 1013,
+                "humidity": 93
+            },
+            "visibility": 2745,
+            "wind": {
+                "speed": 4.47,
+                "deg": 258,
+                "gust": 6.71
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1643766140,
+            "sys": {
+                "type": 2,
+                "id": 19490,
+                "country": "DE",
+                "sunrise": 1643784515,
+                "sunset": 1643818992
+            },
+            "timezone": 3600,
+            "id": 6556075,
+            "name": "Wilhelmsdorf",
+            "cod": 200
+        }
+    },
+    {
+        "lat": 47.8674076,
+        "lon": 9.4378615,
+        "t": 1643767518.080687,
+        "data": {
+            "coord": {
+                "lon": 9.4379,
+                "lat": 47.8674
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "overcast clouds",
+                    "icon": "04n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 2.75,
+                "feels_like": -0.92,
+                "temp_min": 1.47,
+                "temp_max": 4.18,
+                "pressure": 1013,
+                "humidity": 93
+            },
+            "visibility": 2745,
+            "wind": {
+                "speed": 4.02,
+                "deg": 266,
+                "gust": 5.81
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1643767518,
+            "sys": {
+                "type": 2,
+                "id": 19490,
+                "country": "DE",
+                "sunrise": 1643784515,
+                "sunset": 1643818992
+            },
+            "timezone": 3600,
+            "id": 6556075,
+            "name": "Wilhelmsdorf",
+            "cod": 200
+        }
+    },
+    {
+        "lat": 47.8674076,
+        "lon": 9.4378615,
+        "t": 1643767588.0680075,
+        "data": {
+            "coord": {
+                "lon": 9.4379,
+                "lat": 47.8674
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "overcast clouds",
+                    "icon": "04n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 2.75,
+                "feels_like": -0.92,
+                "temp_min": 1.47,
+                "temp_max": 4.18,
+                "pressure": 1013,
+                "humidity": 93
+            },
+            "visibility": 2745,
+            "wind": {
+                "speed": 4.02,
+                "deg": 266,
+                "gust": 5.81
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1643767518,
+            "sys": {
+                "type": 2,
+                "id": 19490,
+                "country": "DE",
+                "sunrise": 1643784515,
+                "sunset": 1643818992
+            },
+            "timezone": 3600,
+            "id": 6556075,
+            "name": "Wilhelmsdorf",
+            "cod": 200
+        }
+    },
+    {
+        "lat": 47.8674076,
+        "lon": 9.4378615,
+        "t": 1643767728.9336839,
+        "data": {
+            "coord": {
+                "lon": 9.4379,
+                "lat": 47.8674
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "overcast clouds",
+                    "icon": "04n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 2.75,
+                "feels_like": -0.92,
+                "temp_min": 1.47,
+                "temp_max": 4.18,
+                "pressure": 1013,
+                "humidity": 93
+            },
+            "visibility": 2745,
+            "wind": {
+                "speed": 4.02,
+                "deg": 266,
+                "gust": 5.81
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1643767518,
+            "sys": {
+                "type": 2,
+                "id": 19490,
+                "country": "DE",
+                "sunrise": 1643784515,
+                "sunset": 1643818992
+            },
+            "timezone": 3600,
+            "id": 6556075,
+            "name": "Wilhelmsdorf",
+            "cod": 200
+        }
+    },
+    {
+        "lat": 47.8674076,
+        "lon": 9.4378615,
+        "t": 1643767767.0178514,
+        "data": {
+            "coord": {
+                "lon": 9.4379,
+                "lat": 47.8674
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "overcast clouds",
+                    "icon": "04n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 2.75,
+                "feels_like": -0.92,
+                "temp_min": 1.47,
+                "temp_max": 4.18,
+                "pressure": 1013,
+                "humidity": 93
+            },
+            "visibility": 2745,
+            "wind": {
+                "speed": 4.02,
+                "deg": 266,
+                "gust": 5.81
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1643767518,
+            "sys": {
+                "type": 2,
+                "id": 19490,
+                "country": "DE",
+                "sunrise": 1643784515,
+                "sunset": 1643818992
+            },
+            "timezone": 3600,
+            "id": 6556075,
+            "name": "Wilhelmsdorf",
+            "cod": 200
+        }
+    },
+    {
+        "lat": 47.8674076,
+        "lon": 9.4378615,
+        "t": 1643767789.6654575,
+        "data": {
+            "coord": {
+                "lon": 9.4379,
+                "lat": 47.8674
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "overcast clouds",
+                    "icon": "04n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 2.75,
+                "feels_like": -0.92,
+                "temp_min": 1.47,
+                "temp_max": 4.18,
+                "pressure": 1013,
+                "humidity": 93
+            },
+            "visibility": 2745,
+            "wind": {
+                "speed": 4.02,
+                "deg": 266,
+                "gust": 5.81
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1643767518,
+            "sys": {
+                "type": 2,
+                "id": 19490,
+                "country": "DE",
+                "sunrise": 1643784515,
+                "sunset": 1643818992
+            },
+            "timezone": 3600,
+            "id": 6556075,
+            "name": "Wilhelmsdorf",
+            "cod": 200
+        }
+    },
+    {
+        "lat": 47.8674076,
+        "lon": 9.4378615,
+        "t": 1643767904.8523989,
+        "data": {
+            "coord": {
+                "lon": 9.4379,
+                "lat": 47.8674
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "overcast clouds",
+                    "icon": "04n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 2.75,
+                "feels_like": -0.92,
+                "temp_min": 1.47,
+                "temp_max": 4.18,
+                "pressure": 1013,
+                "humidity": 93
+            },
+            "visibility": 2745,
+            "wind": {
+                "speed": 4.02,
+                "deg": 266,
+                "gust": 5.81
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1643767518,
+            "sys": {
+                "type": 2,
+                "id": 19490,
+                "country": "DE",
+                "sunrise": 1643784515,
+                "sunset": 1643818992
+            },
+            "timezone": 3600,
+            "id": 6556075,
+            "name": "Wilhelmsdorf",
+            "cod": 200
+        }
+    },
+    {
+        "lat": 47.8674076,
+        "lon": 9.4378615,
+        "t": 1643768125.1618834,
+        "data": {
+            "coord": {
+                "lon": 9.4379,
+                "lat": 47.8674
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "overcast clouds",
+                    "icon": "04n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 2.76,
+                "feels_like": -1.17,
+                "temp_min": 1.47,
+                "temp_max": 4.18,
+                "pressure": 1013,
+                "humidity": 93
+            },
+            "visibility": 2745,
+            "wind": {
+                "speed": 4.47,
+                "deg": 265,
+                "gust": 6.26
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1643768125,
+            "sys": {
+                "type": 2,
+                "id": 19490,
+                "country": "DE",
+                "sunrise": 1643784515,
+                "sunset": 1643818992
+            },
+            "timezone": 3600,
+            "id": 6556075,
+            "name": "Wilhelmsdorf",
+            "cod": 200
+        }
+    },
+    {
+        "lat": 47.8674076,
+        "lon": 9.4378615,
+        "t": 1643769345.2739468,
+        "data": {
+            "coord": {
+                "lon": 9.4379,
+                "lat": 47.8674
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "overcast clouds",
+                    "icon": "04n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 2.79,
+                "feels_like": -1.14,
+                "temp_min": 1.96,
+                "temp_max": 3.73,
+                "pressure": 1013,
+                "humidity": 93
+            },
+            "visibility": 3040,
+            "wind": {
+                "speed": 4.47,
+                "deg": 260,
+                "gust": 6.26
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1643769345,
+            "sys": {
+                "type": 2,
+                "id": 19490,
+                "country": "DE",
+                "sunrise": 1643784515,
+                "sunset": 1643818992
+            },
+            "timezone": 3600,
+            "id": 6556075,
+            "name": "Wilhelmsdorf",
+            "cod": 200
+        }
+    },
+    {
+        "lat": 47.8674076,
+        "lon": 9.4378615,
+        "t": 1643769352.5586696,
+        "data": {
+            "coord": {
+                "lon": 9.4379,
+                "lat": 47.8674
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "overcast clouds",
+                    "icon": "04n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 2.79,
+                "feels_like": -1.14,
+                "temp_min": 1.96,
+                "temp_max": 3.73,
+                "pressure": 1013,
+                "humidity": 93
+            },
+            "visibility": 3040,
+            "wind": {
+                "speed": 4.47,
+                "deg": 260,
+                "gust": 6.26
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1643769345,
+            "sys": {
+                "type": 2,
+                "id": 19490,
+                "country": "DE",
+                "sunrise": 1643784515,
+                "sunset": 1643818992
+            },
+            "timezone": 3600,
+            "id": 6556075,
+            "name": "Wilhelmsdorf",
+            "cod": 200
+        }
+    },
+    {
+        "lat": 47.8674076,
+        "lon": 9.4378615,
+        "t": 1643769366.492397,
+        "data": {
+            "coord": {
+                "lon": 9.4379,
+                "lat": 47.8674
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "overcast clouds",
+                    "icon": "04n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 2.79,
+                "feels_like": -1.14,
+                "temp_min": 1.96,
+                "temp_max": 3.73,
+                "pressure": 1013,
+                "humidity": 93
+            },
+            "visibility": 3040,
+            "wind": {
+                "speed": 4.47,
+                "deg": 260,
+                "gust": 6.26
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1643769345,
+            "sys": {
+                "type": 2,
+                "id": 19490,
+                "country": "DE",
+                "sunrise": 1643784515,
+                "sunset": 1643818992
+            },
+            "timezone": 3600,
+            "id": 6556075,
+            "name": "Wilhelmsdorf",
+            "cod": 200
+        }
+    },
+    {
+        "lat": 47.8674076,
+        "lon": 9.4378615,
+        "t": 1643769673.476393,
+        "data": {
+            "coord": {
+                "lon": 9.4379,
+                "lat": 47.8674
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "overcast clouds",
+                    "icon": "04n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 2.79,
+                "feels_like": -1.14,
+                "temp_min": 1.96,
+                "temp_max": 3.73,
+                "pressure": 1013,
+                "humidity": 93
+            },
+            "visibility": 3040,
+            "wind": {
+                "speed": 4.47,
+                "deg": 260,
+                "gust": 6.26
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1643769345,
+            "sys": {
+                "type": 2,
+                "id": 19490,
+                "country": "DE",
+                "sunrise": 1643784515,
+                "sunset": 1643818992
+            },
+            "timezone": 3600,
+            "id": 6556075,
+            "name": "Wilhelmsdorf",
+            "cod": 200
+        }
+    },
+    {
+        "lat": 47.8674076,
+        "lon": 9.4378615,
+        "t": 1643770017.042012,
+        "data": {
+            "coord": {
+                "lon": 9.4379,
+                "lat": 47.8674
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "overcast clouds",
+                    "icon": "04n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 2.89,
+                "feels_like": -1.01,
+                "temp_min": 1.68,
+                "temp_max": 3.68,
+                "pressure": 1013,
+                "humidity": 93
+            },
+            "visibility": 3040,
+            "wind": {
+                "speed": 4.47,
+                "deg": 263,
+                "gust": 7.6
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1643770017,
+            "sys": {
+                "type": 2,
+                "id": 19490,
+                "country": "DE",
+                "sunrise": 1643784515,
+                "sunset": 1643818992
+            },
+            "timezone": 3600,
+            "id": 6556075,
+            "name": "Wilhelmsdorf",
+            "cod": 200
+        }
+    }
+]
